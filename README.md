@@ -1,5 +1,5 @@
 # Doctrin Assignment
-All code is the Main.py file and can be run as long as the repository of the json files is changed to the desired location. Below are explainations for all the important functions.
+All code is the [Main.py](Main.py) file and can be run as long as the repository of the json files is changed to the desired location. Below are explainations for all the important functions.
 
 ## func group_by_anamnesis
 - Groups data by anamnesis_id
